@@ -1,6 +1,6 @@
 ## Seneca College (employee-portal)
 
-
+This Seneca webpage is part of 
 
 
 Link: https://www.senecacollege.ca/home.html
