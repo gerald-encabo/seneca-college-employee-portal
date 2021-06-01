@@ -4,7 +4,9 @@ This Seneca webpage is part of
 
 
 Link: https://www.senecacollege.ca/home.html
+
 Sample Public Space Link: 
+
 https://employees.senecacollege.ca/spaces/137/senecan-connect/home
 https://employees.senecacollege.ca/spaces/176/information-technology-services/home
 https://employees.senecacollege.ca/spaces/39/the-teaching-learning-centre/home
